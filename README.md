@@ -20,10 +20,12 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+developed by:P SYAM TEJ
+registration no:212221240056
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
-
-# Result
-
 # Output 
+![image](https://github.com/Dhanireddy-Amarnthreddy/Correlation_Regression/assets/94165103/35214ae7-b1fb-4b73-856c-fe8d51d5ea41)
+# RESULT :
+The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test.
